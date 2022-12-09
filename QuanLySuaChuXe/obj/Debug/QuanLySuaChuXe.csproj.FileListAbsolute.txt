@@ -1,0 +1,8 @@
+D:\Lap trinh huong doi tuong\C#\QuanLySuaChuXe\obj\Debug\QuanLySuaChuXe.csproj.AssemblyReference.cache
+D:\Lap trinh huong doi tuong\C#\QuanLySuaChuXe\obj\Debug\QuanLySuaChuXe.csproj.SuggestedBindingRedirects.cache
+D:\Lap trinh huong doi tuong\C#\QuanLySuaChuXe\obj\Debug\QuanLySuaChuXe.csproj.CoreCompileInputs.cache
+D:\Lap trinh huong doi tuong\C#\QuanLySuaChuXe\bin\Debug\QuanLySuaChuXe.exe.config
+D:\Lap trinh huong doi tuong\C#\QuanLySuaChuXe\bin\Debug\QuanLySuaChuXe.exe
+D:\Lap trinh huong doi tuong\C#\QuanLySuaChuXe\bin\Debug\QuanLySuaChuXe.pdb
+D:\Lap trinh huong doi tuong\C#\QuanLySuaChuXe\obj\Debug\QuanLySuaChuXe.exe
+D:\Lap trinh huong doi tuong\C#\QuanLySuaChuXe\obj\Debug\QuanLySuaChuXe.pdb
